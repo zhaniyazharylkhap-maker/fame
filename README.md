@@ -27,7 +27,7 @@ npm run dev
 | Name | What for |
 | --- | --- |
 | `GEMINI_API_KEY` | AI audience and AI coach (Google AI Studio key) |
-| `GEMINI_MODEL` | optional, default `gemini-flash-latest` |
+| `GEMINI_MODEL` | optional, default `gemini-flash-lite-latest` (bigger free quota), falls back to `gemini-flash-latest` |
 | `YOUTUBE_API_KEY` | YouTube Data API v3 for Short stats and trends |
 
 ## Deploy on Vercel
